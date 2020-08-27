@@ -1,2 +1,2 @@
 this is chapter 2 of learning of git
-..
+..testing out branch concept in git
